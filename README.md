@@ -11,3 +11,4 @@ In the project, i made use of basic programming language knowledge and Kotlin sy
 The main point was to calculate between two pre-set numbers, and perform a randomly selected type of operation (plus, minus, times, divided by).
 
 Thank you!
+=======
