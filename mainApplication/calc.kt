@@ -40,7 +40,7 @@ fun main() {
                         
     }else {
         
-        println("Um dos valores é nulo.")
+        println("One of the values is null.")
         
     }   
     
